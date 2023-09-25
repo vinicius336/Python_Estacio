@@ -58,3 +58,6 @@
 
 ### Commit 016 - 25/09/2023
 * Exercício #03
+
+### Commit 017 - 25/09/2023
+* Atribuição Composta
