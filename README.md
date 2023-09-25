@@ -42,3 +42,6 @@
 
 ### Commit 011 - 25/09/2023
 * Tipos de dados #1
+
+### Commit 012 - 25/09/2023
+* Tipos de dados #2
