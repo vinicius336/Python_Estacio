@@ -30,3 +30,6 @@
 
 ### Commit 007 - 24/09/2023
 * Atribuição múltipla
+
+### Commit 008 - 24/09/2023
+* Operadores compostos
