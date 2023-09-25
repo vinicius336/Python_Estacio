@@ -20,3 +20,6 @@
 
 ### Commit 004 - 24/09/2023
 * Utilitários dir e help impressos na tela
+
+### Commit 005 - 24/09/2023
+* Blocos e Comentários
