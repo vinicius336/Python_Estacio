@@ -23,3 +23,7 @@
 
 ### Commit 005 - 24/09/2023
 * Blocos e Comentários
+
+### Commit 006 - 24/09/2023
+* Usando variável
+* Atualização do Repositório Local
