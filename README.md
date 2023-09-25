@@ -45,3 +45,6 @@
 
 ### Commit 012 - 25/09/2023
 * Tipos de dados #2
+
+### Commit 013 - 25/09/2023
+* Precedência e conversão de tipos
