@@ -36,3 +36,6 @@
 
 ### Commit 009 - 25/09/2023
 * Lista sequencial
+
+### Commit 010 - 25/09/2023
+* Dicionário
