@@ -17,3 +17,6 @@
 
 ### Commit 003 - 24/09/2023
 * Programa variável/tipo de variável
+
+### Commit 004 - 24/09/2023
+* Utilitários dir e help impressos na tela
