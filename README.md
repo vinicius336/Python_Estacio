@@ -55,3 +55,6 @@
 ### Commit 015 - 25/09/2023
 * Alteração nome Exercício #01
 * Exercício #02
+
+### Commit 016 - 25/09/2023
+* Exercício #03
