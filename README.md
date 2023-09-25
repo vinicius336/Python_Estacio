@@ -39,3 +39,6 @@
 
 ### Commit 010 - 25/09/2023
 * Dicionário
+
+### Commit 011 - 25/09/2023
+* Tipos de dados #1
