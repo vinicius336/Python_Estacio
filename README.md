@@ -33,3 +33,6 @@
 
 ### Commit 008 - 24/09/2023
 * Operadores compostos
+
+### Commit 009 - 25/09/2023
+* Lista sequencial
