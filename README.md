@@ -27,3 +27,6 @@
 ### Commit 006 - 24/09/2023
 * Usando variável
 * Atualização do Repositório Local
+
+### Commit 007 - 24/09/2023
+* Atribuição múltipla
