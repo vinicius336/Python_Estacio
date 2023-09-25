@@ -67,3 +67,6 @@
 
 ### Commit 019 - 25/09/2023
 * Entrada de dados
+
+### Commit 020 - 25/09/2023
+* Formatação de saída de dados
