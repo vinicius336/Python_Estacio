@@ -64,3 +64,6 @@
 
 ### Commit 018 - 25/09/2023
 * Troca de valores
+
+### Commit 019 - 25/09/2023
+* Entrada de dados
