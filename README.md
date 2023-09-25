@@ -48,3 +48,6 @@
 
 ### Commit 013 - 25/09/2023
 * Precedência e conversão de tipos
+
+### Commit 014 - 25/09/2023
+* Exercício #01
