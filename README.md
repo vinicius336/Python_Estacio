@@ -14,3 +14,6 @@
 ### Commit 002 - 24/09/2023
 * Criação/Adequação das pastas das disciplinas do semestre atual (2023.3)
 * Programa para exibir prints na tela com valores, .format e 'f em strings'
+
+### Commit 003 - 24/09/2023
+* Programa variável/tipo de variável
