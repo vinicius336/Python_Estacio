@@ -83,3 +83,6 @@
 
 ### Commit 024 - 26/09/2023
 * Exercício #07
+
+### Commit 025 - 26/09/2023
+* Exercício #08
