@@ -70,3 +70,6 @@
 
 ### Commit 020 - 25/09/2023
 * Formatação de saída de dados
+
+### Commit 021 - 26/09/2023
+* Estrutura de decisão if
