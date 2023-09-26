@@ -94,3 +94,7 @@
 ### Commit 027 - 26/09/2023
 * Estrutura de repetição for
 * Alteração nome If_elif_else
+
+### Commit 028 - 26/09/2023
+* Estrutura condicional While
+* Adicionado exemplo em for
