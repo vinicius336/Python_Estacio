@@ -80,3 +80,6 @@
 ### Commit 023 - 26/09/2023
 * Alteração nome exercício 05
 * Exercício #06
+
+### Commit 024 - 26/09/2023
+* Exercício #07
