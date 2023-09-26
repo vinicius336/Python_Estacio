@@ -86,3 +86,7 @@
 
 ### Commit 025 - 26/09/2023
 * Exercício #08
+
+### Commit 026 - 26/09/2023
+* Solução elegante no Exercício #08
+* Estrutura de decisão if elif else
