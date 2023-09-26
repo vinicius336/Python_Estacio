@@ -75,4 +75,8 @@
 * Estrutura de decisão if
 
 ### Commit 022 - 26/09/2023
-* Exercício ímpar par
+* Exercício #05
+
+### Commit 023 - 26/09/2023
+* Alteração nome exercício 05
+* Exercício #06
