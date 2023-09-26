@@ -90,3 +90,7 @@
 ### Commit 026 - 26/09/2023
 * Solução elegante no Exercício #08
 * Estrutura de decisão if elif else
+
+### Commit 027 - 26/09/2023
+* Estrutura de repetição for
+* Alteração nome If_elif_else
