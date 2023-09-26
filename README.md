@@ -73,3 +73,6 @@
 
 ### Commit 021 - 26/09/2023
 * Estrutura de decisão if
+
+### Commit 022 - 26/09/2023
+* Exercício ímpar par
