@@ -98,3 +98,6 @@
 ### Commit 028 - 26/09/2023
 * Estrutura condicional While
 * Adicionado exemplo em for
+
+### Commit 029 - 03/10/2023
+* Função em Python
