@@ -101,3 +101,6 @@
 
 ### Commit 029 - 03/10/2023
 * Função em Python
+
+### Commit 030 - 03/10/2023
+* Exercício #09
