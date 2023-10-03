@@ -104,3 +104,6 @@
 
 ### Commit 030 - 03/10/2023
 * Exercício #09
+
+### Commit 031 - 03/10/2023
+* Exercício #10
