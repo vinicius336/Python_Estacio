@@ -110,3 +110,6 @@
 
 ### Commit 032 - 03/10/2023
 * Exercício #11
+
+### Commit 033 - 03/10/2023
+* Bicliotecas em Python
