@@ -113,3 +113,6 @@
 
 ### Commit 033 - 03/10/2023
 * Bicliotecas em Python
+
+### Commit 034 - 03/10/2023
+* Ajuste Bibliotecas em Python
