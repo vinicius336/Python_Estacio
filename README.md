@@ -119,3 +119,7 @@
 
 ### Commit 035 - 03/10/2023
 * Criação de gráfico de barras com Bibliotecas no Exercício #12
+
+### Commit 036 - 03/10/2023
+* Criação de gráfico de barras em formato de histograma com dados aleatórios no Exercício #13
+* Impressão do gráfico não apareceu. Programa não informou nenhum erro
