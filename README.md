@@ -132,3 +132,6 @@
 
 ### Commit 039 - 04/10/2023
 * Exercício #15
+
+### Commit 040 - 04/10/2023
+* Orientação a Objetos
