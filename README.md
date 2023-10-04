@@ -138,3 +138,6 @@
 
 ### Commit 041 - 04/10/2023
 * Orientação a Objetos #2
+
+### Commit 042 - 04/10/2023
+* Orientação a Objetos #3
