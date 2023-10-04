@@ -141,3 +141,6 @@
 
 ### Commit 042 - 04/10/2023
 * Orientação a Objetos #3
+
+### Commit 043 - 04/10/2023
+* Agragação
