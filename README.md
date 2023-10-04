@@ -126,3 +126,6 @@
 
 ### Commit 037 - 04/10/2023
 * Tratamento de exceção
+
+### Commit 038 - 04/10/2023
+* Exercício #14
