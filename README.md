@@ -116,3 +116,6 @@
 
 ### Commit 034 - 03/10/2023
 * Ajuste Bibliotecas em Python
+
+### Commit 035 - 03/10/2023
+* Criação de gráfico de barras com Bibliotecas no Exercício #12
