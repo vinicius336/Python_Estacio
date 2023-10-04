@@ -123,3 +123,6 @@
 ### Commit 036 - 03/10/2023
 * Criação de gráfico de barras em formato de histograma com dados aleatórios no Exercício #13
 * Impressão do gráfico não apareceu. Programa não informou nenhum erro
+
+### Commit 037 - 04/10/2023
+* Tratamento de exceção
