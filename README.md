@@ -129,3 +129,6 @@
 
 ### Commit 038 - 04/10/2023
 * Exercício #14
+
+### Commit 039 - 04/10/2023
+* Exercício #15
