@@ -168,3 +168,7 @@
 
 ### Commit 051 - 05/10/2023
 * Exercício #16
+
+### Commit 052 - 05/10/2023
+* Ajuste de valor de atributo da classe onibus
+* Exercício #17
