@@ -175,3 +175,6 @@
 
 ### Commit 053 - 05/10/2023
 * Como usar a função lambda
+
+### Commit 054 - 05/10/2023
+* Diferenças entre as funções Iterável, map e map + lambda
