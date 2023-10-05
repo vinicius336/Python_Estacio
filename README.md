@@ -172,3 +172,6 @@
 ### Commit 052 - 05/10/2023
 * Ajuste de valor de atributo da classe onibus
 * Exercício #17
+
+### Commit 053 - 05/10/2023
+* Como usar a função lambda
