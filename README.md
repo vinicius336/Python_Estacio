@@ -187,3 +187,6 @@
 
 ### Commit 057 - 05/10/2023
 * Exercício #18
+
+### Commit 058 - 05/10/2023
+* Exercício #19
