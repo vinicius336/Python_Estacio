@@ -165,3 +165,6 @@
 
 ### Commit 050 - 05/10/2023
 * Exemplo Classe
+
+### Commit 051 - 05/10/2023
+* Exercício #16
