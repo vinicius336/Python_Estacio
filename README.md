@@ -181,3 +181,6 @@
 
 ### Commit 055 - 05/10/2023
 * Diferenças entre as funções Iterável, filter e filter + lambda
+
+### Commit 056 - 05/10/2023
+* Exemplo de Programação Funcional
