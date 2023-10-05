@@ -193,3 +193,6 @@
 
 ### Commit 059 - 05/10/2023
 * Exercício #20
+
+### Commit 060 - 05/10/2023
+* Exemplo de Thread
