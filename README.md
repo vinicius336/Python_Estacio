@@ -144,3 +144,6 @@
 
 ### Commit 043 - 04/10/2023
 * Agragação
+
+### Commit 044 - 04/10/2023
+* Método de Classe versus Método Estático
