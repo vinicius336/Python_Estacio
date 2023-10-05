@@ -199,3 +199,6 @@
 
 ### Commit 061 - 05/10/2023
 * Exercício #21
+
+### Commit 062 - 05/10/2023
+* Exercício #22
