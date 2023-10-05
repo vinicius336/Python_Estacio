@@ -184,3 +184,6 @@
 
 ### Commit 056 - 05/10/2023
 * Exemplo de Programação Funcional
+
+### Commit 057 - 05/10/2023
+* Exercício #18
