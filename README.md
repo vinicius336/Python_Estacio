@@ -147,3 +147,6 @@
 
 ### Commit 044 - 04/10/2023
 * Método de Classe versus Método Estático
+
+### Commit 045 - 04/10/2023
+* Exemplo Banco (simula informações de uma conta com possibilidade de informar se o saque foi realizado ou não)
