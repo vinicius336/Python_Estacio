@@ -159,3 +159,6 @@
 
 ### Commit 048 - 04/10/2023
 * Exemplo de Polimorfismo
+
+### Commit 049 - 04/10/2023
+* Exemplo de Exceção
