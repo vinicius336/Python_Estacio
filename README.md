@@ -150,3 +150,6 @@
 
 ### Commit 045 - 04/10/2023
 * Exemplo Banco (simula informações de uma conta com possibilidade de informar se o saque foi realizado ou não)
+
+### Commit 046 - 04/10/2023
+* Exemplo de Herança
