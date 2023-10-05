@@ -190,3 +190,6 @@
 
 ### Commit 058 - 05/10/2023
 * Exercício #19
+
+### Commit 059 - 05/10/2023
+* Exercício #20
