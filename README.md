@@ -156,3 +156,6 @@
 
 ### Commit 047 - 04/10/2023
 * Exemplo de Sobrecarga
+
+### Commit 048 - 04/10/2023
+* Exemplo de Polimorfismo
