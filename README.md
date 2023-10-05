@@ -178,3 +178,6 @@
 
 ### Commit 054 - 05/10/2023
 * Diferenças entre as funções Iterável, map e map + lambda
+
+### Commit 055 - 05/10/2023
+* Diferenças entre as funções Iterável, filter e filter + lambda
