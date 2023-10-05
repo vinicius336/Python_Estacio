@@ -162,3 +162,6 @@
 
 ### Commit 049 - 04/10/2023
 * Exemplo de Exceção
+
+### Commit 050 - 05/10/2023
+* Exemplo Classe
