@@ -209,3 +209,4 @@
 
 ### Commit 064 - 05/10/2023
 * Exercício #23
+* Exercício #24
