@@ -202,3 +202,7 @@
 
 ### Commit 062 - 05/10/2023
 * Exercício #22
+
+### Commit 063 - 05/10/2023
+* Commit com o README.md
+* Exemplo de Aplicação Web com Flask
