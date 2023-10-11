@@ -210,3 +210,6 @@
 ### Commit 064 - 05/10/2023
 * Exercício #23
 * Exercício #24
+
+### Commit 065 - 11/10/2023
+* Regressão Linear.py
