@@ -216,3 +216,6 @@
 
 ### Commit 66 - 11/10/2023
 * Exercício 25
+
+### Commit 67 - 11/10/2023
+* Exercício 26 - Não mostra na tela
