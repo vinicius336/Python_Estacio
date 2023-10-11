@@ -222,3 +222,6 @@
 
 ### Commit 68 - 11/10/2023
 * Exercício 27 - Módulo ausente (não explicado em aula)
+
+### Commit 69 - 11/10/2023
+* Exercício 28 - Não mostra na tela
