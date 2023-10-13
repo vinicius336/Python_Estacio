@@ -233,3 +233,6 @@
 ### Commit 071 - 13/10/2023
 * Alteração de nome do arquivo anterior para "Testanto biclioteca instalada.py"
 * Criando o arquivo "Aplicação financeira"
+
+### Commit 072 - 13/10/2023
+* Aplicação de finança - baixar e mostrar 3 ações
