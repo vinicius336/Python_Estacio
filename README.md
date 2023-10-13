@@ -236,3 +236,6 @@
 
 ### Commit 072 - 13/10/2023
 * Aplicação de finança - baixar e mostrar 3 ações
+
+### Commit 073 - 13/10/2023
+* Alteração na mostragem de dados
