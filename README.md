@@ -214,14 +214,18 @@
 ### Commit 065 - 11/10/2023
 * Regressão Linear.py
 
-### Commit 66 - 11/10/2023
+### Commit 066 - 11/10/2023
 * Exercício 25
 
-### Commit 67 - 11/10/2023
+### Commit 067 - 11/10/2023
 * Exercício 26 - Não mostra na tela
 
-### Commit 68 - 11/10/2023
+### Commit 068 - 11/10/2023
 * Exercício 27 - Módulo ausente (não explicado em aula)
 
-### Commit 69 - 11/10/2023
+### Commit 069 - 11/10/2023
 * Exercício 28 - Não mostra na tela
+
+### Commit 070 - 13/10/2023
+* Teste de bibliotécas - Mostrar na tela a versão das bibliotecas
+* Ajuste de numeração dos commits (add 0)
