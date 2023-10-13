@@ -229,3 +229,7 @@
 ### Commit 070 - 13/10/2023
 * Teste de bibliotécas - Mostrar na tela a versão das bibliotecas
 * Ajuste de numeração dos commits (add 0)
+
+### Commit 071 - 13/10/2023
+* Alteração de nome do arquivo anterior para "Testanto biclioteca instalada.py"
+* Criando o arquivo "Aplicação financeira"
