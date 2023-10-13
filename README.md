@@ -239,3 +239,6 @@
 
 ### Commit 073 - 13/10/2023
 * Alteração na mostragem de dados
+
+### Commit 074 - 13/10/2023
+* Mostrando gráfico da aplicação financeira (sns não funcionou)
