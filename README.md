@@ -242,3 +242,6 @@
 
 ### Commit 074 - 13/10/2023
 * Mostrando gráfico da aplicação financeira (sns não funcionou)
+
+### Commit 075 - 13/10/2023
+* Organização do arquivo "Mostrando a aplicação financeira"
