@@ -245,3 +245,6 @@
 
 ### Commit 075 - 13/10/2023
 * Organização do arquivo "Mostrando a aplicação financeira"
+
+### Commit 076 - 16/10/2023
+* Exemplo de aplicação em Spark
