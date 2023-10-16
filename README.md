@@ -248,3 +248,6 @@
 
 ### Commit 076 - 16/10/2023
 * Exemplo de aplicação em Spark
+
+### Commit 077 - 16/10/2023
+* Complemento aplicação em Spark
