@@ -251,3 +251,6 @@
 
 ### Commit 077 - 16/10/2023
 * Complemento aplicação em Spark
+
+### Commit 078 - 16/10/2023
+* Aplicação incompleta (utilizando parâmetros do Google Colab) em Spark
