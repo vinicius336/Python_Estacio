@@ -272,3 +272,6 @@
 
 ### Commit 084 - 17/10/2023
 * Constructo de Classe - MAL EXPLICADO - CONSTRUCTO NÃO FUNCIONA NO EXEMPLO
+
+### Commit 083 - 17/10/2023
+* Constructo de Função/Rotina
