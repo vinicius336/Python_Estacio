@@ -266,3 +266,6 @@
 
 ### Commit 082 - 17/10/2023
 * Constructo Condicional
+
+### Commit 083 - 17/10/2023
+* Constructo de Reperição
