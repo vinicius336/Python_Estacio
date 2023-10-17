@@ -263,3 +263,6 @@
 
 ### Commit 081 - 16/10/2023
 * 3 exercícios de MapReduce com Spark em 1 código - Fantando configuração nas variáveis de ambiente
+
+### Commit 082 - 17/10/2023
+* Constructo Condicional
