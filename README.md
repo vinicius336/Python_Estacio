@@ -254,3 +254,6 @@
 
 ### Commit 078 - 16/10/2023
 * Aplicação incompleta (utilizando parâmetros do Google Colab) em Spark
+
+### Commit 079 - 16/10/2023
+* Aplicação f(x) com Spark - Fantando configuração nas variáveis de ambiente
