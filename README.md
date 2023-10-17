@@ -275,3 +275,6 @@
 
 ### Commit 083 - 17/10/2023
 * Constructo de Função/Rotina
+
+### Commit 083 - 17/10/2023
+* Constructo escopo - MAL EXPLICADO - APENAS TEORIA, NADA DE PRÁTICA
