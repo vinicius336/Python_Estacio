@@ -257,3 +257,6 @@
 
 ### Commit 079 - 16/10/2023
 * Aplicação f(x) com Spark - Fantando configuração nas variáveis de ambiente
+
+### Commit 080 - 16/10/2023
+* Vetor de palavras com Spark - Fantando configuração nas variáveis de ambiente
