@@ -260,3 +260,6 @@
 
 ### Commit 080 - 16/10/2023
 * Vetor de palavras com Spark - Fantando configuração nas variáveis de ambiente
+
+### Commit 081 - 16/10/2023
+* 3 exercícios de MapReduce com Spark em 1 código - Fantando configuração nas variáveis de ambiente
