@@ -278,3 +278,6 @@
 
 ### Commit 083 - 17/10/2023
 * Constructo escopo - MAL EXPLICADO - APENAS TEORIA, NADA DE PRÁTICA
+
+### Commit 084 - 17/10/2023
+* Incluindo extensão .py nos arquivos 09 e 10 (constructos Condicional e de Repetção, respectivamente)
