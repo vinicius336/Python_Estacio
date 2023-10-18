@@ -291,3 +291,6 @@
 ### Commit 087 - 17/10/2023
 * Exemplo de gráfico de Barras
 * Ajuste na descrição do últimos 3 commits
+
+### Commit 088 - 17/10/2023
+* Exemplo de gráfico de Pizza
