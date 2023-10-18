@@ -283,7 +283,11 @@
 * Incluindo extensão .py nos arquivos 09 e 10 (constructos Condicional e de Repetção, respectivamente)
 
 ### Commit 085 - 17/10/2023
-* Exemplo de gráfico de histograma
+* Exemplo de gráfico de Histograma
 
 ### Commit 086 - 17/10/2023
-* Exemplo de gráfico de dispersão
+* Exemplo de gráfico de Dispersão
+
+### Commit 087 - 17/10/2023
+* Exemplo de gráfico de Barras
+* Ajuste na descrição do últimos 3 commits
