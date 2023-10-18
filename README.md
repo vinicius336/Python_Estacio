@@ -281,3 +281,6 @@
 
 ### Commit 084 - 17/10/2023
 * Incluindo extensão .py nos arquivos 09 e 10 (constructos Condicional e de Repetção, respectivamente)
+
+### Commit 085 - 17/10/2023
+* Exemplo de gráfico de histograma
