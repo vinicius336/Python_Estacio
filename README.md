@@ -299,4 +299,9 @@
 * Exepmlo de gráfico de Linha
 
 ### Commit 090 - 18/10/2023
-* Exemplo de Aprendizado de Máquina
+* Exemplo de Aprendizado de Máquina por Classificação de SVM
+
+### Commit 091 - 18/10/2023
+* Exemplo de Aprendizado de Máquina por Classificação de Árvore de Decisão
+* Adicionar complemento da descrição do commit anterior
+* Alteração do nome do arquivo do Commit anterior
