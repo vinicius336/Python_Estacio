@@ -294,3 +294,6 @@
 
 ### Commit 088 - 17/10/2023
 * Exemplo de gráfico de Pizza
+
+### Commit 089 - 17/10/2023
+* Exepmlo de gráfico de Linha
