@@ -284,3 +284,6 @@
 
 ### Commit 085 - 17/10/2023
 * Exemplo de gráfico de histograma
+
+### Commit 086 - 17/10/2023
+* Exemplo de gráfico de dispersão
