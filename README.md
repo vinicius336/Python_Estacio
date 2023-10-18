@@ -297,3 +297,6 @@
 
 ### Commit 089 - 17/10/2023
 * Exepmlo de gráfico de Linha
+
+### Commit 090 - 18/10/2023
+* Exemplo de Aprendizado de Máquina
